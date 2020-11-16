@@ -1,3 +1,3 @@
 <?php
-$vArray = array(1,2,2,3,2);
+$vArray = array(1,2,2,3,2,3,4);
 ?>
